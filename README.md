@@ -19,7 +19,7 @@ I use this homelab to document and practice core skills, including:
 
 - **System Automation**: Creating reliable solutions for provisioning, configuration, and maintenance.
   
-> Every configuration file, script, and documentation page here offers concrete evidence of my ability to build, manage, and secure a resilient IT environment.
+> Every configuration file, script, and documentation page here offers evidence of my ability to build, manage, and secure a resilient IT environment.
 
 ----------------
 ###  What You'll Find Here:
