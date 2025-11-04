@@ -1,5 +1,7 @@
 # Kurt W. Pasewaldt 👋
 
+![Python](https://img.shields.io/badge/Python-3.10-3670a0?logo=python&logoColor=ffdd54&style=for-the-badge)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kurtwp&show_icons=true&theme=github_dark" width="400">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kurtwp&theme=github_dark&hide_border=true" width="400">
