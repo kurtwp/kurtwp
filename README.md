@@ -1,7 +1,7 @@
 # Kurt W. Pasewaldt 👋
 
 ![Python](https://img.shields.io/badge/Python-3.14-3670a0?logo=python&logoColor=ffdd54&style=for-the-badge)
-![Python](https://img.shields.io/badge/wireshark-3.10-3670a0?logo=python&logoColor=ffdd54&style=for-the-badge)
+[![Wireshark](https://img.shields.io/badge/Wireshark-Protocol_Analysis-1679A7?logo=wireshark&logoColor=FFFFFF&style=for-the-badge)](https://www.wireshark.org/)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kurtwp&show_icons=true&theme=github_dark" width="400">
