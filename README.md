@@ -9,7 +9,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kurtwp&theme=github_dark" width="400">
 </p>
 
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kurtwp&theme=github_dark" />
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kurtwp&theme=github_dark" width="500" />
 
 <!--
 ![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=kurtwp)
