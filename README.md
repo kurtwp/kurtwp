@@ -14,9 +14,9 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kurtwp&theme=github_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kurtwp&theme=github_dark)
-
-![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=kurtwp)
 <!--
+![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=kurtwp)
+
 **kurtwp/kurtwp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
