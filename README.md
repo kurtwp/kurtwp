@@ -6,6 +6,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kurtwp&theme=dark&hide_border=true" width="400">
 </p>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kurtwp&show_icons=true&include_all_commits=true&theme=radical" alt="Kurt github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurtwp&layout=compact&theme=radical" />
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kurtwp&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kurtwp&theme=github_dark)
+
+![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=kurtwp)
 <!--
 **kurtwp/kurtwp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
