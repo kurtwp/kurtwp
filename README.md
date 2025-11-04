@@ -6,6 +6,7 @@
 </p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurtwp&layout=compact&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kurtwp&theme=github_dark" />
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kurtwp&theme=github_dark)
 
