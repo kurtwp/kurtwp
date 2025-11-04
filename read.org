@@ -33,6 +33,30 @@
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kurtwp&theme=github_dark" >
 </p>
 
+---
+That's a great next step. A good README.md should guide visitors on how to actually use or interact with your project.
+
+For a Homelab/Portfolio repository, the "Getting Started" section serves as a map for navigating your documentation and code.
+
+Here is a template for the "Getting Started" section, followed by a "Technologies Used" section, integrated with your existing introduction:
+
+🚀 Getting Started & Exploring the Code
+Since this repository documents a complex, physical environment, you won't be able to "run" it directly. Instead, use these steps to navigate and understand my configuration:
+
+Start with the Overview:
+
+Check out the /docs folder for the latest Network Diagram and a high-level overview of the architecture (VLANs, security zones, and host locations).
+
+Explore Infrastructure as Code (IaC):
+
+The /ansible directory contains all playbooks for configuring services, managing users, and ensuring system compliance across my Linux fleet.
+
+The /terraform directory holds modules for provisioning cloud resources or virtual machines.
+
+Review Specific Services:
+
+Look into the /kubernetes folder for manifest files and Helm charts detailing how specific applications (like monitoring stacks or CI/CD tools) are deployed and managed.
+---
 <!--
 ![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=kurtwp)
 
