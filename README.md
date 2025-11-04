@@ -1,6 +1,6 @@
 # Kurt W. Pasewaldt 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?kurtwp=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?user=kurtwp=anuraghazra&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=timothystewart6&theme=dark&count_private=true&theme=radical)](https://l.kurtwp.live/github)
 <!--
