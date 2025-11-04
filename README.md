@@ -1,7 +1,7 @@
 # Kurt W. Pasewaldt 👋
 ## 🛠️ Homelab Journey & Professional Portfolio
 
-Welcome to my space for **building, breaking, and learning**!
+Welcome to my Github for **building, breaking, and learning**!
 
 ---------------
 This repository serves as my professional showcase, centered around my ongoing Homelab Projects.
