@@ -5,8 +5,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kurtwp&theme=github_dark&hide_border=true" width="400">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurtwp&layout=compact&theme=github_dark" width="500">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kurtwp&theme=github_dark" width="500">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurtwp&layout=compact&theme=github_dark" width="350">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kurtwp&theme=github_dark" width="350">
 </p>
 
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kurtwp&theme=github_dark" width="500" />
