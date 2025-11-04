@@ -1,6 +1,6 @@
 # Kurt W. Pasewaldt 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kurtwp&theme=github_dark)](https://github.com/kurtwp/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=kurtwp&theme=github_dark)](https://github.com/kurtwp/github-readme-stats)">
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kurtwp&show_icons=true&include_all_commits=true&theme=dark" width="400">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kurtwp&theme=dark&hide_border=true" width="400">
