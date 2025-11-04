@@ -3,9 +3,8 @@
 ![Python](https://img.shields.io/badge/Python-3.14-3670a0?logo=python&logoColor=ffdd54&style=for-the-badge)
 [![Wireshark](https://img.shields.io/badge/Wireshark-Protocol_Analysis-1679A7?logo=wireshark&logoColor=FFFFFF&style=for-the-badge)](https://www.wireshark.org/)
 [![SIP](https://img.shields.io/badge/Protocol-SIP-555555?style=for-the-badge)](https://datatracker.ietf.org/doc/html/rfc3261)
-![Static Badge](https://img.shields.io/badge/:badgeContent)
 
-https://img.shields.io/badge/any_text-you_like-blue
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kurtwp&show_icons=true&theme=github_dark" width="400">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kurtwp&theme=github_dark&hide_border=true" width="400">
