@@ -26,7 +26,7 @@ I use this homelab to document and practice core skills, including:
 * **System Administration**: (Linux/Windows)
 * **Networing**: Setup and configurations of networking devices.
 * **Network Diagrams:** Documentation on VLANs, firewall rules,VPN setup, etc...
-* **Project Deep-Dives:** Case studies on deploying services such as **Proxmox, Hyper-V, Self-hosting, and Protocols e.g. sip/rtp,** to name a few.
+* **Project Deep-Dives:** Case studies on deploying services such as **Toubleshooting, Wireshark/Tshark, Proxmox, Hyper-V, Self-hosting, and Protocols e.g. sip/rtp,** to name a few.
 * **Certifaction Journey:** What I used to help me pass the JNCIA and CCNA exams.
 
 This documentation directly demonstrates my expertise in **Networking**<small>(VoIP & Data)</small>, **Troubleshooting**, **Virtualization**, and **Documentation**. Feel free to explore my setup and the code behind it!
