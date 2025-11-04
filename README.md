@@ -32,8 +32,12 @@ I use this homelab to document and practice core skills, including:
 This documentation directly demonstrates my expertise in **Networking**<small>(VoIP & Data)</small>, **Troubleshooting**, **Virtualization**, and **Documantation**. Feel free to explore my setup and the code behind it!
 
 ---
-
-
+### Getting Started & Exploring Examples
+1. ### OverView
+    - The /docs folder contains type of equipemt and default diagrams
+    - The /certs folder has the resourtces I used to achieve my JNCIA & CCNA certifactions
+    - The /projects folder contains labs Is et up and the steps and confgiuration files used to compalete the labs.
+    - The /ansible folder contains all playbooks for configuring services, managing users, and ensuring system compliance across my various servers.
 
 <!--
 **kurtwp/kurtwp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
