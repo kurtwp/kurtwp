@@ -29,7 +29,7 @@ I use this homelab to document and practice core skills, including:
 * **Project Deep-Dives:** Case studies on deploying services such as **Proxmox, Hyper-V, Self-hosting, and Protocols e.g. sip/rtp,** to name a few.
 * **Certifaction Journey:** What I used to help me pass the JNCIA and CCNA exams.
 
-This documentation directly demonstrates my expertise in **Networking**<small>(VoIP & Data)</small>, **Troubleshooting**, **Virtualization**, and **Documantation**. Feel free to explore my setup and the code behind it!
+This documentation directly demonstrates my expertise in **Networking**<small>(VoIP & Data)</small>, **Troubleshooting**, **Virtualization**, and **Documentation**. Feel free to explore my setup and the code behind it!
 
 ---
 ### Getting Started & Exploring Examples
