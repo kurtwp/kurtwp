@@ -1,6 +1,6 @@
 # Kurt W. Pasewaldt 👋
 
-<img src="[https://github-readme-stats.vercel.app/api?username=kurtwp&theme=github_dark)](https://github.com/kurtwp/github-readme-stats)" width="400">
+<img src="[![Kurt](https://github-readme-stats.vercel.app/api?username=kurtwp&theme=github_dark)](https://github.com/kurtwp/github-readme-stats)" width="400">
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kurtwp&show_icons=true&theme=dark" width="400">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kurtwp&theme=dark&hide_border=true" width="400">
