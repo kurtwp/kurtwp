@@ -1,8 +1,7 @@
 # Kurt W. Pasewaldt 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kurtwp&show_icons=true&theme=github_dark)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=timothystewart6&theme=dark&count_private=true&theme=github_dark)](https://l.kurtwp.live/github)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kurtwp&theme=github_dark&count_private=true&theme=github_dark)](https://l.kurtwp.live/github)
 <!--
 **kurtwp/kurtwp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
