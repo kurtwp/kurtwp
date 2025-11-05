@@ -6,15 +6,15 @@ Cell: (704) 737-4236 | Email: kurt@pasewaldt.com
 
 ## 💻 VoIP & Data Networking Specialist
 
-[cite_start]A **VoIP and Data Networking Engineer** with over **20 years of experience** designing, deploying, and supporting complex voice and data infrastructures[cite: 24]. [cite_start]Proven knowledge in **SIP, SBCs, and data networks** across enterprise and carrier-grade environments[cite: 25]. [cite_start]Adept at troubleshooting, process optimization, and cross-functional collaboration[cite: 26]. [cite_start]Recognized for technical leadership, customer-focused solutions, and mentoring high-performing teams[cite: 26]. [cite_start]Passionate about leveraging emerging technologies to drive operational excellence and innovation[cite: 27].
+A **VoIP and Data Networking Engineer** with over **20 years of experience** designing, deploying, and supporting complex voice and data infrastructures. Proven knowledge in **SIP, SBCs, and data networks** across enterprise and carrier-grade environments. Adept at troubleshooting, process optimization, and cross-functional collaboration. Recognized for technical leadership, customer-focused solutions, and mentoring high-performing teams. Passionate about leveraging emerging technologies to drive operational excellence and innovation.
 
 ---
 
 ## 🛠️ Technical Skills
 
-* [cite_start]**VoIP & Telephony Systems:** AudioCodes (M500, M800, M1000, M4000, OVOC Manager), Innomedia ESBC (9378, 10k), BroadWorks Registrar, Cisco MPP 88XX, Polycom VVX240/450, Asterisk, Cisco Call Manager Express [cite: 30]
-* [cite_start]**Networking & Infrastructure:** TCP/IP, LAN/WAN, Ethernet, Cisco (ASA5505/20, 7609, 7200, 2610, 2620, 2950T, 6500, 2400, 2900, 5300, 5350), Ciena (3920/3930), Accedian Metro/Ether NIDs, ZyXEL Security Appliances, Linux [cite: 32]
-* [cite_start]**Signaling Protocols:** SIP, T.38, E1/T1, DS3, ISDN [cite: 34]
+* **VoIP & Telephony Systems:** AudioCodes (M500, M800, M1000, M4000, OVOC Manager), Innomedia ESBC (9378, 10k), BroadWorks Registrar, Cisco MPP 88XX, Polycom VVX240/450, Asterisk, Cisco Call Manager Express.
+* **Networking & Infrastructure:** TCP/IP, LAN/WAN, Ethernet, Cisco (ASA5505/20, 7609, 7200, 2610, 2620, 2950T, 6500, 2400, 2900, 5300, 5350), Ciena (3920/3930), Accedian Metro/Ether NIDs, ZyXEL Security Appliances, Linux.
+* **Signaling Protocols:** SIP, T.38, E1/T1, DS3, ISDN.
 * [cite_start]**Hardware & SBCs:** NexTone/NextPoint SBC, Genband SR-3 LCR, RouteNGN, Dialogic IMG, Nuera Softswitch, Meta Service Assurance Server, Genband Q20/Q10/QFlex eSBC [cite: 36]
 * [cite_start]**Testing & Monitoring Tools:** Wireshark, Abacus, Agilent Advisor & Voice Quality Tester, Shunra Storm, INET Spectra/Spectra2, iBOOT, EV-DO, Nagios, Cacti, NTOP, Visio, SolarWinds NMS, Spiceworks, Splunk, NetOMNIA, BridgeTrak, OcularIP [cite: 38]
 * [cite_start]**Programming & Scripting (Current & Past):** Python, Bash, JavaScript, PHP & MySQL [cite: 40]
