@@ -4,12 +4,12 @@
 Welcome to my Github for **building, breaking, and learning**!
 
 ---------------
-This repository serves as my professional showcase, centered around my ongoing Homelab Projects.
+My Github repository serves as my professional showcase, centered around my ongoing Homelab Projects.
 
-> This environment is a living sandbox for developing the required infrastructure skills. My homelab functions as my test bench for learning the full IT lifecycle, from foundational setup to advanced configuration and automation. 
+> By maintaing my Github repository as a **living sandbox** it allows me to utilize my homelab as a test bench for maintaining and developing skills from **documentation** to **device setups** through **advanced configuration** and **automation scripting**.  
 
  ### Key Areas of Expertise Demonstrated:
-I use this homelab to document and practice core skills, including:
+I use my homelab to document and practice core skills, including:
 
 - **Platform Engineering**: Bare-metal virtualization and container orchestration (Kubernetes, Docker).
 
@@ -19,14 +19,14 @@ I use this homelab to document and practice core skills, including:
 
 - **System Automation**: Creating reliable solutions for provisioning, configuration, and maintenance.
   
-> Every configuration file, script, and documentation page here offers evidence of my ability to build, manage, and secure a resilient IT environment.
+> The creation of the configuration files, scripts, and documentation pages here demonstrates my ability to build, manage, and secure IT environments.
 
 ----------------
 ###  What You'll Find Here:
 * **System Administration**: (Linux/Windows)
-* **Networing**: Setup and configurations of networking devices.
-* **Network Diagrams:** Documentation on VLANs, firewall rules,VPN setup, etc...
-* **Project Deep-Dives:** Case studies on deploying services such as **Toubleshooting, Wireshark/Tshark, Proxmox, Hyper-V, Self-hosting, and Protocols e.g. sip/rtp,** to name a few.
+* **Networking**: Setup and configurations of networking devices.
+* **Network Diagrams:** Documentation on VLANs, firewall rules, VPN setup, etc...
+* **Project Deep-Dives:** Case studies on deploying services such as **Troubleshooting, Wireshark/Tshark, Proxmox, Hyper-V, Self-hosting, and Protocols e.g. sip/rtp,** to name a few.
 * **Certifaction Journey:** What I used to help me pass the JNCIA and CCNA exams.
 
 This documentation directly demonstrates my expertise in **Networking**<small>(VoIP & Data)</small>, **Troubleshooting**, **Virtualization**, and **Documentation**. Feel free to explore my setup and the code behind it!
