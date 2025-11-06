@@ -6,7 +6,7 @@ Welcome to my Github for **building, breaking, and learning**!
 ---------------
 My Github repository serves as my professional showcase, centered around my ongoing Homelab Projects.
 
-> By maintaing my Github repository as a **living sandbox** it allows me to utilize my homelab as a test bench for maintaining and developing skills from **documentation** to **device setups** through **advanced configuration** and **automation scripting**.  
+> By maintaining my Github repository as a **living sandbox** it allows me to utilize my homelab as a test bench for maintaining and developing skills from **documentation** to **device setups** through **advanced configuration** and **automation scripting**.  
 
  ### Key Areas of Expertise Demonstrated:
 I use my homelab to document and practice core skills, including:
@@ -27,16 +27,16 @@ I use my homelab to document and practice core skills, including:
 * **Networking**: Setup and configurations of networking devices.
 * **Network Diagrams:** Documentation on VLANs, firewall rules, VPN setup, etc...
 * **Project Deep-Dives:** Case studies on deploying services such as **Troubleshooting, Wireshark/Tshark, Proxmox, Hyper-V, Self-hosting, and Protocols e.g. sip/rtp,** to name a few.
-* **Certifaction Journey:** What I used to help me pass the JNCIA and CCNA exams.
+* **Certification Journey:** What I used to help me pass the JNCIA and CCNA exams.
 
 This documentation directly demonstrates my expertise in **Networking**<small>(VoIP & Data)</small>, **Troubleshooting**, **Virtualization**, and **Documentation**. Feel free to explore my setup and the code behind it!
 
 ---
 ### Getting Started & Exploring Examples
 1. ### OverView
-    - The [/docs](docs) folder contains various equipemt, default diagrams, and technical presentations.
+    - The [/docs](docs) folder contains various equipment, default diagrams, and technical presentations.
     - The [/certs](certs) folder has the resourtces I used to achieve my JNCIA & CCNA certifications
-    - The [/projects](projects) folder contains labs Is et up and the steps and configuration files used to compalete the labs.
+    - The [/projects](projects) folder contains labs I set up and the steps and configuration files used to complete the labs.
     - The [/ansible](ansible) folder contains all playbooks for configuring services, managing users, and ensuring system compliance across my various servers.
 
 <!--
