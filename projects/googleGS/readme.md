@@ -15,6 +15,9 @@ In this project you will find the code I used to create the DB plus videos going
 <a href="https://youtu.be/NMVxQHD4ZoU" target="_blank"> Part 7</a>  Update Button<br>
 <a href="https://youtu.be/nCCF6VG7ytw" target="_blank"> Part 8</a>  Customer Menus<br>
 
-- <a href="https://github.com/kurtwp/kurtwp/blob/main/projects/googleGS/code.gs" target="_blank">code.gs</a>Main code for the simulated DB. <br>
+---
 
+<a href="https://github.com/kurtwp/kurtwp/blob/main/projects/googleGS/code.gs" target="_blank">code.gs</a> Main code for the simulated DB. <br>
+<a href="https://github.com/kurtwp/kurtwp/blob/main/projects/googleGS/functions.gs" target="_blank">functions.gs</a> Functions called from code.gs. <br>
+<a href="https://github.com/kurtwp/kurtwp/blob/main/projects/googleGS/menu.gs" target="_blank">menu.gs</a> Code used to create a custom menu. <br>
 Correct Repo
