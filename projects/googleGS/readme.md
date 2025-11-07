@@ -1,10 +1,10 @@
-## Simulating a Data Base using Google APP script. 
+## Simulating a Database using Google APP script. 
 
 <p align="center">
   <img src="img/DB.jpg" alt="Database Schema Diagram" width="60%">
 </p>
 
-In this project you will find the code I used to create the DB plus videos going through the code. 
+In this project, you will find the code I used to create the DB, plus videos going through the code. 
 
 <a href="https://youtu.be/1k6MMKC_2_U" target="_blank"> Part 1</a>  UI <br>
 <a href="https://youtu.be/3RZC1bzFzBg" target="_blank"> Part 2</a>  Add Button 1<br>
