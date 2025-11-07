@@ -26,14 +26,14 @@ I use my homelab to document and practice core skills, including:
 * **System Administration**: (Linux/Windows)
 * **Networking**: Setup and configurations of networking devices.
 * **Network Diagrams:** Documentation on VLANs, firewall rules, VPN setup, etc...
-* **Project Deep-Dives:** Case studies on deploying services such as **Troubleshooting, Wireshark/Tshark, Proxmox, Hyper-V, Self-hosting, and Protocols e.g. sip/rtp,** to name a few.
+* **Project Deep-Dives:** Case studies on deploying services such as **Troubleshooting, Wireshark/Tshark, Proxmox, Hyper-V, Self-hosting, and Protocols, e.g., SIP/RTP,** to name a few.
 * **Certification Journey:** What I used to help me pass the JNCIA and CCNA exams.
 
 This documentation directly demonstrates my expertise in **Networking**<small>(VoIP & Data)</small>, **Troubleshooting**, **Virtualization**, and **Documentation**. Feel free to explore my setup and the code behind it!
 
 ---
-### Getting Started & Exploring Examples
-1. ### OverView
+### Dive In: Labs and Configurations
+1. ## Overview
     - The [/docs](docs) folder contains various equipment, default diagrams, and technical presentations.
     - The [/certs](certs) folder has the resourtces I used to achieve my JNCIA & CCNA certifications
     - The [/projects](projects) folder contains labs I set up and the steps and configuration files used to complete the labs.
