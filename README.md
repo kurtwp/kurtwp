@@ -35,6 +35,7 @@ This documentation directly demonstrates my expertise in **Networking**<small>(V
 ### Dive In: Labs and Configurations
 1. ### Overview
     - The [/docs](https://github.com/kurtwp/homelab/tree/main/docs) folder contains various equipment, default diagrams, and technical presentations.
+    - The [/doc/cheatsheets](https://github.com/kurtwp/homelab/tree/64b6b00c4b16845fcd132d14cee979342ee90291/docs/cheatSheets) A collection of old and new cheat sheets.
     - The [/certs](https://github.com/kurtwp/homelab/tree/main/certs) folder has the resourtces I used to achieve my JNCIA & CCNA certifications
     - The [[/projects](https://github.com/kurtwp/homelab/tree/main/projects) folder contains labs I set up and the steps and configuration files used to complete the labs.
     - The [/ansible](https://github.com/kurtwp/homelab/tree/main/ansible) folder contains all playbooks for configuring services, managing users, and ensuring system compliance across my various servers.
