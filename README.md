@@ -35,14 +35,12 @@ This documentation directly demonstrates my expertise in **Networking**<small>(V
 ### Dive In: Labs and Configurations
 1. ### Overview
     -  [/docs](https://github.com/kurtwp/homelab/tree/main/docs) folder contains various equipment, default diagrams, and technical presentations.
-    -  [/doc/cheatsheets](https://github.com/kurtwp/homelab/tree/64b6b00c4b16845fcd132d14cee979342ee90291/docs/cheatSheets) A collection of old and new cheat sheets.
-    -  [/doc/troubleshooting](https://github.com/kurtwp/homelab/tree/main/docs/troubleshooting) Collection of trouibleshooting guides.
     -  [/certs](https://github.com/kurtwp/homelab/tree/main/certs) folder has the resourtces I used to achieve my JNCIA & CCNA certifications
-    -  [[/projects](https://github.com/kurtwp/homelab/tree/main/projects) folder contains labs I set up and the steps and configuration files used to complete the labs.
-    -  [/ansible](https://github.com/kurtwp/homelab/tree/main/ansible) folder contains all playbooks for configuring services, managing users, and ensuring system compliance across my various servers.
+    -  [/projects](https://github.com/kurtwp/homelab/tree/main/projects) folder contains labs I set up and the steps and configuration files used to complete the labs.
     - My [resume](https://github.com/kurtwp/homelab/tree/main/resume)
 
 <!--
+ [/ansible](https://github.com/kurtwp/homelab/tree/main/ansible) folder contains all playbooks for configuring services, managing users, and ensuring system compliance across my various servers.
 **kurtwp/kurtwp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
