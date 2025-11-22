@@ -6,7 +6,7 @@ Welcome to my Github for **building, breaking, and learning**!
 ---------------
 My Github repository serves as my professional showcase, centered around my ongoing Home lab Projects.
 
-> By maintaining my Github repository as a **living sandbox** it allows me to utilize my homelab as a test bench for maintaining and developing skills from **documentation** to **device setups** through **advanced configuration** and **automation scripting**.  
+> By maintaining my Github repository as a **living sandbox** it allows me to utilize my home lab as a test bench for maintaining and developing skills from **documentation** to **device setups** through **advanced configuration** and **automation scripting**.  
 
  ### Key Areas of Expertise Demonstrated:
 I use my homelab to document and practice core skills, including:
