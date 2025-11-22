@@ -1,5 +1,5 @@
 # Kurt W. Pasewaldt 👋
-## My Home lab Journey & Professional Portfolio
+## My Home Lab Journey & Professional Portfolio
 
 Welcome to my Github for **building, breaking, and learning**!
 
