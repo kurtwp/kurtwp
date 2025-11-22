@@ -37,6 +37,7 @@ This documentation directly demonstrates my expertise in **Networking**<small>(V
 -  [/docs](https://github.com/kurtwp/homelab/tree/main/docs) folder contains various equipment, default diagrams, and technical presentations.
 -  [/certs](https://github.com/kurtwp/homelab/tree/main/certs) folder has the resourtces I used to achieve my JNCIA & CCNA certifications
 -  [/projects](https://github.com/kurtwp/homelab/tree/main/projects) folder contains labs I set up and the steps and configuration files used to complete the labs.
+-  My [/Home Lab](https://github.com/kurtwp/homelab/projects/homeNetwork)
 -  My [resume](https://github.com/kurtwp/homelab/tree/main/resume)
 
 <!--
