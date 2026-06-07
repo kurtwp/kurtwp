@@ -6,7 +6,7 @@ Welcome to my Github for **building, breaking, and learning**!
 ---------------
 My Github repository serves as my professional showcase, centered around my ongoing Home lab Projects.
 
-> By maintaining my Github repository as a **living sandbox** it allows me to utilize my home lab as a test bench for maintaining and developing skills from **documentation** to **device setups** through **advanced configuration** and **automation scripting**.  
+> By maintaining my Github repository as a **living sandbox**, it allows me to utilize my home lab as a test bench for maintaining and developing skills from **documentation** to **device setups** through **advanced configuration** and **automation scripting**.  
 
  ### Key Areas of Expertise Demonstrated:
 I use my homelab to document and practice core skills, including:
@@ -29,7 +29,7 @@ I use my homelab to document and practice core skills, including:
 * **Project Deep-Dives:** Case studies on deploying services such as **Troubleshooting, Wireshark/Tshark, Proxmox, Hyper-V, Self-hosting, and Protocols, e.g., SIP/RTP,** to name a few.
 * **Certification Journey:** What I used to help me pass the JNCIA and CCNA exams.
 
-This documentation directly demonstrates my expertise in **Networking**<small>(VoIP & Data)</small>, **Troubleshooting**, **Virtualization**, and **Documentation**. Feel free to explore my setup and the code behind it!
+This documentation directly demonstrates my expertise in **Networking**<small> (VoIP & Data)</small>, **Troubleshooting**, **Virtualization**, and **Documentation**. Feel free to explore my setup and the code behind it!
 
 ---
 ### Dive In: Labs and Configurations
